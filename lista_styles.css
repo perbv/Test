@@ -10,4 +10,5 @@ body li {
 li:hover {
 	color:lime;
 	background-color:gray;
+	list-style-image:url(../tripod.png)
 }
